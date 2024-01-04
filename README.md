@@ -1,1 +1,1 @@
-This is an app I developed in 2023 during my grade 12 year for my IB HL Computer Science course. To learn more in depth about the project and how to run it, all necessary documents and a video demo are linked on the course homepage html file when you open the folder.
+This is an app I developed in 2023 during my grade 12 year for my IB HL Computer Science course. To learn more in depth about the project and how to run it, all necessary documents and a video demo are linked on the cover_homepage.html file when you open the folder.
